@@ -1,6 +1,6 @@
 //Reducer
 
-const initialState={number:0git}
+const initialState={number:0}
 
 const  Counter_reducers =(state=initialState, action)=>{
     
